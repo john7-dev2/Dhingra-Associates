@@ -53,11 +53,11 @@ const Navbar = () => {
                   <Home className="w-5 h-5 md:w-6 md:h-6 text-gold" />
                 </div>
               </div>
-              <div className="hidden sm:block">
-                <span className="font-display text-xl md:text-2xl font-bold text-primary-foreground tracking-wide">
+              <div>
+                <span className="font-display text-lg sm:text-xl md:text-2xl font-bold text-primary-foreground tracking-wide">
                   Dhingra
                 </span>
-                <span className="block text-[10px] md:text-xs text-gold tracking-[0.2em] uppercase">
+                <span className="block text-[9px] sm:text-[10px] md:text-xs text-gold tracking-[0.15em] sm:tracking-[0.2em] uppercase">
                   Associates
                 </span>
               </div>
